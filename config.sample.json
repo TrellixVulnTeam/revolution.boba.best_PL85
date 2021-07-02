@@ -26,7 +26,6 @@
     "defaultCountryCode": "GB",
     "showLabsSettings": true,
     "features": {
-        "feature_font_scaling": "labs",
         "feature_pinning": "labs",
         "feature_round_avatars": "labs",
         "feature_nsfw_ponymotes": "labs",
@@ -41,7 +40,10 @@
         "feature_interplanetary_time": "labs",
         "feature_disable_mutant_standard": "labs",
         "feature_irc_ui": "labs",
-        "feature_new_spinner": false
+        "feature_new_spinner": false,
+        "feature_spaces": "labs",
+        "feature_dnd": "labs",
+        "feature_voice_messages": "labs"
     },
     "default_federate": true,
     "default_theme": "light",
